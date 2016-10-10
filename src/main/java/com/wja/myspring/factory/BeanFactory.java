@@ -1,4 +1,6 @@
-package com.wja.myspring;
+package com.wja.myspring.factory;
+
+import com.wja.myspring.BeanDefinition;
 
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
